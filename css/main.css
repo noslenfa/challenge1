@@ -1,0 +1,23 @@
+.newstitle {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.scorecomments {
+	font-family: Arial;
+	font-size: 12px;
+	color: green;
+}
+
+.by {
+	font-family: Arial;
+	font-size: 12px;
+	color: red;
+	text-decoration: none;
+}
+
+a:visited {
+	color:#0000FF;
+}
